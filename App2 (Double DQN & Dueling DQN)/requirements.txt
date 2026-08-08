@@ -1,0 +1,7 @@
+ray[rllib]
+pettingzoo[atari]
+supersuit
+mlflow
+torch
+torchvision
+torchaudio

@@ -1,0 +1,20 @@
+# Virtual Environment
+venv/
+env/
+.env
+
+# Python Cache
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# MLFlow & Logs
+mlruns/
+mlruns_backup/
+*.db
+
+# VS Code
+.vscode/
+
+# Ignore large weights or model output if you want, but zip files kept for now.
